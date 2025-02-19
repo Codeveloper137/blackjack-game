@@ -1,2 +1,2 @@
 # js-blackjack
-Así dejamos el código en la sección 6
+Así dejamos el código al finalizar el ejercicio.
